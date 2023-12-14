@@ -1,0 +1,38 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.checkout-ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout-title {
+  margin-right: 15px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.empty{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:red;
+  font-size:20;
+  font-weight:bold;
+  margin-top:20px
+}
+.Btn{
+
+  background-color: #cd9042;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  cursor: pointer;
+  width: 100%;
+  height: 30px;
+  margin-left:10px;
+  border-radius: 5px;
+}
